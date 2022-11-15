@@ -9,5 +9,6 @@
 <body>
     <h3>Burger</h3>
     <p>Ufa burger </p>
+    <p>/champion</p>
 </body>
 </html>
